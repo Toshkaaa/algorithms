@@ -1,0 +1,3 @@
+﻿  ASD_4.cpp
+D:\tohas\Projects\source\repos\ASD_4\ASD_4\ASD_4.cpp(159): warning C4715: Pop: значение возвращается не при всех путях выполнения
+  ASD_4.vcxproj -> D:\tohas\Projects\source\repos\ASD_4\Debug\ASD_4.exe

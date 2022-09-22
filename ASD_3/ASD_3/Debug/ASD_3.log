@@ -1,0 +1,8 @@
+﻿  ASD_3.cpp
+D:\source\repos\ASD_3\ASD_3\ASD_3.cpp(284,39): warning C4018: <: несоответствие типов со знаком и без знака
+D:\source\repos\ASD_3\ASD_3\ASD_3.cpp(291,43): warning C4018: <: несоответствие типов со знаком и без знака
+D:\source\repos\ASD_3\ASD_3\ASD_3.cpp(348,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\source\repos\ASD_3\ASD_3\ASD_3.cpp(374,35): warning C4018: <: несоответствие типов со знаком и без знака
+D:\source\repos\ASD_3\ASD_3\ASD_3.cpp(381,39): warning C4018: <: несоответствие типов со знаком и без знака
+D:\source\repos\ASD_3\ASD_3\ASD_3.cpp(437,23): warning C4018: <: несоответствие типов со знаком и без знака
+  ASD_3.vcxproj -> D:\source\repos\ASD_3\Debug\ASD_3.exe
